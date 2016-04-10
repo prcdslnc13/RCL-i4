@@ -1,0 +1,53 @@
+%
+(Washer-drills)
+(1.8" drill)
+G90 G94
+G17
+G21
+
+(Drill3)
+M9
+T1 M6
+S15000 M3
+G54
+M8
+G0 X6 Y6
+Z15
+Z5
+Z4
+G1 Z-1.946 F508
+G0 Z5
+Z15
+
+(Drill3)
+M8
+X22 Y6
+Z15
+Z5
+Z4
+G1 Z-1.946 F508
+G0 Z5
+Z15
+
+(Drill3)
+M8
+X38 Y6
+Z15
+Z5
+Z4
+G1 Z-1.946 F508
+G0 Z5
+Z15
+
+(Drill3)
+M8
+X54 Y6
+Z15
+Z5
+Z4
+G1 Z-1.946 F508
+G0 Z5
+Z15
+M9
+M30
+%
