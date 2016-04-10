@@ -21,5 +21,5 @@ Thanks to the following companys and individuals for giving their support, advic
   https://openhardwarecoza.wordpress.com/ 
 
   Eric Lien 
-	
-	RiverCitylabs.org - 
+  
+  RiverCityLabs.org
